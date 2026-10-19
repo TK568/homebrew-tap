@@ -2,8 +2,8 @@ class Gw < Formula
   desc "Git worktree helper with local-file symlinking"
   homepage "https://github.com/TK568/gw"
   url "https://github.com/TK568/gw.git",
-      tag:      "v0.1.0",
-      revision: "9dd69bca937dc6fcff89ef1c677a2e5fe33da01a"
+      tag:      "v0.1.1",
+      revision: "a2041f9590373b4d3eefd543ed4527574f4e3f34"
   license "MIT"
 
   def install
